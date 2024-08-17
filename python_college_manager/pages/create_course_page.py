@@ -1,13 +1,16 @@
-import streamlit as st
 import os
+from dotenv import load_dotenv
+import streamlit as st
+
+load_dotenv()
 
 st.title("Create course")
 name = st.text_input('Course name')
 start_date = st.date_input(label="Start date")
 end_date = st.date_input(label="End date")
-cut1_percentaje = st.number_input(label="Cut 1 percentaje")
-cut2_percentaje = st.number_input(label="Cut 2 percentaje")
-cut3_percentaje = st.number_input(label="Cut 3 percentaje")
+cut1_percentage = st.number_input(label="Cut 1 percentage")
+cut2_percentage = st.number_input(label="Cut 2 percentage")
+cut3_percentage = st.number_input(label="Cut 3 percentage")
 submit = st.button("Submit")
 
 if submit:
