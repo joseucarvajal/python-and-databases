@@ -1,0 +1,11 @@
+1. How to process excel files
+2. How to define hidden variables for stablishing connection with database
+3. How to stablish a connection with a database with Python
+4. How to handle database connections (open and close)
+5. How to write data to a database using SQL throught a programatic GUI
+6. How to retrieve data from a database throught a programatic GUI by using SQL
+7. How to retrieve data from the database withouth using *
+8. How to handle errors while performing operations against a database
+9. How format an present data to the end user in a friendly fashion
+10. Bulk insert operations
+11. How to create user interfaces with Streamlit to interact with data

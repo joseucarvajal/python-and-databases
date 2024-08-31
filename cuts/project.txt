@@ -1,0 +1,24 @@
+Procesar 2 archivos de Excel
+Estos dos archivos deben mezclarse en un solo data frame
+Estos datos deben guardarse en una base de datos
+
+Asesoria: 
+    viernes 6 de septiembre del 2024
+
+Sustentaciones:
+    Viernes 13 de septiembre del 2024
+    Viernes 20 de septiembre del 2024
+
+Porcentajes de calificacion:
+    - 35% el trabajo funcionando
+    - 65 la sustentacion
+
+Parametros de entrega:
+    - No se puede comentar el codigo
+    - Todo tiene que estar subido en GitHub el miercoles 11 de septiemnbre
+    - Cada dia de retraso de subir el trabajo a GitHub baja 1.5 unidades
+    - Se debe crear una interfaz grafica de usuario en Streamlit
+    - Se utilizar Python como lenguaje de programacion
+
+    
+
